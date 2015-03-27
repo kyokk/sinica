@@ -19,3 +19,4 @@
 * bisect
 * blame
 * rebase
+* reflog
